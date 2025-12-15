@@ -17,7 +17,7 @@ namespace Escuela.Modelos
             return new ApiResult<T>
             {
                 Success = true,
-                Data = data 
+                Data = data  
             };
         }
 
