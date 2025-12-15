@@ -17,7 +17,11 @@ namespace Escuela.Modelos
             return new ApiResult<T>
             {
                 Success = true,
+<<<<<<< HEAD
                 Data = data 
+=======
+                Data = data
+>>>>>>> 8fb5080cd313b9e59f29ff716d5a5e5d6c3ac563
             };
         }
 
