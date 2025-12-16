@@ -29,5 +29,5 @@ namespace Escuela.Modelos
                 Message = message
             };
         }
-    }
+    } 
 }
